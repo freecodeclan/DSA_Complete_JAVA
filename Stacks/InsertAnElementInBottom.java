@@ -10,7 +10,7 @@ package Stacks;
 
 import java.util.Stack;
 
-public class InsertAnElement {
+public class InsertAnElementInBottom {
 
   public static Stack<Integer> pushAtBottom(Stack<Integer> myStack, int x){
 
